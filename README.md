@@ -1,5 +1,5 @@
 # OS-Scripts
-
+I am  learning git and git hub so pls ignoret this. 
 Personal collection of Operating System (OS) scripts _(and related things)_.
 
 - - -
